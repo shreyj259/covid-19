@@ -1,19 +1,44 @@
 {
   "files": {
-    "main.js": "/covid-19/static/js/main.c8d86307.chunk.js",
-    "main.js.map": "/covid-19/static/js/main.c8d86307.chunk.js.map",
+    "main.js": "/covid-19/static/js/main.82b768a4.chunk.js",
+    "main.js.map": "/covid-19/static/js/main.82b768a4.chunk.js.map",
     "runtime-main.js": "/covid-19/static/js/runtime-main.8039b55e.js",
     "runtime-main.js.map": "/covid-19/static/js/runtime-main.8039b55e.js.map",
-    "static/js/2.531f8fe8.chunk.js": "/covid-19/static/js/2.531f8fe8.chunk.js",
-    "static/js/2.531f8fe8.chunk.js.map": "/covid-19/static/js/2.531f8fe8.chunk.js.map",
+    "static/js/2.d6927d45.chunk.js": "/covid-19/static/js/2.d6927d45.chunk.js",
+    "static/js/2.d6927d45.chunk.js.map": "/covid-19/static/js/2.d6927d45.chunk.js.map",
     "index.html": "/covid-19/index.html",
-    "precache-manifest.e295f70e4e6afd26326f6571664f21a2.js": "/covid-19/precache-manifest.e295f70e4e6afd26326f6571664f21a2.js",
+    "precache-manifest.3b624799f9a071b34632b79fc0c46073.js": "/covid-19/precache-manifest.3b624799f9a071b34632b79fc0c46073.js",
     "service-worker.js": "/covid-19/service-worker.js",
-    "static/js/2.531f8fe8.chunk.js.LICENSE.txt": "/covid-19/static/js/2.531f8fe8.chunk.js.LICENSE.txt"
+    "static/js/2.d6927d45.chunk.js.LICENSE.txt": "/covid-19/static/js/2.d6927d45.chunk.js.LICENSE.txt",
+    "static/media/meme-1.jpg": "/covid-19/static/media/meme-1.37031883.jpg",
+    "static/media/meme-10.jpg": "/covid-19/static/media/meme-10.03abe672.jpg",
+    "static/media/meme-11.jpg": "/covid-19/static/media/meme-11.ec547531.jpg",
+    "static/media/meme-12.jpg": "/covid-19/static/media/meme-12.bbfae18c.jpg",
+    "static/media/meme-13.jpg": "/covid-19/static/media/meme-13.3713f041.jpg",
+    "static/media/meme-14.jpg": "/covid-19/static/media/meme-14.968f3468.jpg",
+    "static/media/meme-15.jpg": "/covid-19/static/media/meme-15.4c0b05c0.jpg",
+    "static/media/meme-16.jpg": "/covid-19/static/media/meme-16.4e824af5.jpg",
+    "static/media/meme-17.jpg": "/covid-19/static/media/meme-17.5482ea9f.jpg",
+    "static/media/meme-18.jpg": "/covid-19/static/media/meme-18.1899340e.jpg",
+    "static/media/meme-19.jpg": "/covid-19/static/media/meme-19.30c667dc.jpg",
+    "static/media/meme-2.jpg": "/covid-19/static/media/meme-2.76ad5e4a.jpg",
+    "static/media/meme-20.jpg": "/covid-19/static/media/meme-20.77e4a5ce.jpg",
+    "static/media/meme-21.jpg": "/covid-19/static/media/meme-21.ff201f71.jpg",
+    "static/media/meme-22.jpg": "/covid-19/static/media/meme-22.4be50509.jpg",
+    "static/media/meme-23.jpg": "/covid-19/static/media/meme-23.4d6a4801.jpg",
+    "static/media/meme-24.jpg": "/covid-19/static/media/meme-24.dc616bf9.jpg",
+    "static/media/meme-25.jpg": "/covid-19/static/media/meme-25.f05af915.jpg",
+    "static/media/meme-3.jpg": "/covid-19/static/media/meme-3.eefb2ce1.jpg",
+    "static/media/meme-4.jpg": "/covid-19/static/media/meme-4.0f7acc76.jpg",
+    "static/media/meme-5.jpg": "/covid-19/static/media/meme-5.c2547a2d.jpg",
+    "static/media/meme-6.jpg": "/covid-19/static/media/meme-6.de764a8f.jpg",
+    "static/media/meme-7.jpg": "/covid-19/static/media/meme-7.f0f46971.jpg",
+    "static/media/meme-8.jpg": "/covid-19/static/media/meme-8.fe12637a.jpg",
+    "static/media/meme-9.jpg": "/covid-19/static/media/meme-9.cb9f9e5d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8039b55e.js",
-    "static/js/2.531f8fe8.chunk.js",
-    "static/js/main.c8d86307.chunk.js"
+    "static/js/2.d6927d45.chunk.js",
+    "static/js/main.82b768a4.chunk.js"
   ]
 }
